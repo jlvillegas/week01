@@ -8,9 +8,8 @@ _The problem of the first week consists of selecting a current news item from an
 *[visual code](https://code.visualstudio.com/) -source code editor
 *[GitHub](https://github.com/) -code repository 
 *[slack](https://slack.com/intl/es-ar/) -Group communication tool
-
-
-
-
-
-https://www.bbc.com/news/technology-58583600
+# Authors
+ * **Jorge villegas** *developer*
+ * **Nicolas Viola** *Tutor*
+# Reference contruction project  
+* **url https://www.bbc.com/news/technology-58583600**
