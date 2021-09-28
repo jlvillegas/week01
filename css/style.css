@@ -1,0 +1,26 @@
+.title {
+    font-size: 22px;
+    line-height: 1.0909090909090908;
+}
+.text{
+
+    font-family: ReithSans,Helvetica,Arial,freesans,sans-serif;
+    padding: 0;
+    border: 0;
+    margin: 0;
+   
+    vertical-align: baseline;
+}
+
+.imagen {
+    position: 0;
+    font-family: ReithSans,Helvetica,Arial,freesans,sans-serif;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.2857142857142858;
+    background: #3F3F42;
+    color: #EEEEEE;
+    padding: 1rem;
+    display: block;
+}
+
